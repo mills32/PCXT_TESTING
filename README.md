@@ -4,9 +4,9 @@ Testing PC XT core
 LIST OF TESTS
 
 NAME              CGA   TANDY   BUGS
-------------------------------------------------------
 
-ACTION FIGHTER    yes   no      Tandy 160x200 not implemented 
+ACTION FIGHTER    yes   no      Tandy 160x200 not implemented
+
 ANOTHER WORLD     _     no      Stuck at white screen
 BOULDER DASH      yes   _
 BUBBLE BOBBLE     yes   yes     Tandy mode flickeing (Double buffer not implemented?)
